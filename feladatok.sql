@@ -69,4 +69,3 @@ group by orszag
  order by ev 
  group by kontinens
  ;
- 
